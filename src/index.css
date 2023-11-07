@@ -2,8 +2,6 @@ body {
   background: #1f2d48;
 }
 
-
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
